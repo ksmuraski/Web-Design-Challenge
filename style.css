@@ -1,0 +1,41 @@
+.navbar li {
+  display: inline-block;
+  padding: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  background: #fff;
+  border-radius: 3px;
+}
+
+.navbar li a {
+  color: #000;
+  text-decoration: none;
+}
+
+.mainbody {
+    height: 400px;
+    padding: 20px;
+
+}
+.box {
+    height: 400px;
+    padding: 20px;
+    color: #fff;
+    background: deepskyblue;
+  }
+
+  .margin-top-80 {
+    margin-top: 80px;
+  }
+
+.main-image {
+    float: left;
+    height: 60%;
+    width: 55%;
+}
+
+#comparison{
+  float:center;
+  text-align: center;
+}
